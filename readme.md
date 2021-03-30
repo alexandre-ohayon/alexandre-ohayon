@@ -14,11 +14,12 @@
 * [Contact me](mailto:alexandre.ohayon@epitech.eu) :point_left:
 
 ### Languages and Tools:
-<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Fedora" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" />
+
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" />
 
 <br />
