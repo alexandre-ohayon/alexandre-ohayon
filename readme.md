@@ -25,16 +25,6 @@
 
 ---
 
-<br />
-
-:headphones: | Stats
----  | --- |
-&nbsp; <br> [![Spotify](https://novatorem-self-tau.vercel.app/api/spotify)](https://open.spotify.com/user/) | [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexandre-ohayon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
----
-
 ### My projects:
 
 <br />
