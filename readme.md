@@ -4,7 +4,7 @@
 
 ### Currently working at WebTailor Agency :briefcase:
 * **full-time internship** 👨‍💼:
-* Starting on **05/04/2021** ending **31/08/2021** :calendar:
+* From **05/04/2021** To **31/08/2021** :calendar:
 * Based in Paris :office:
 * [Contact me](mailto:alexandre.ohayon@epitech.eu) :point_left:
 
