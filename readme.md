@@ -25,8 +25,6 @@
 
 ---
 
-### My projects:
-
 <br />
 
 Cool project :sunglasses:
