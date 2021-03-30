@@ -1,4 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexandre-ohayon&theme=onedark)](https://github.com/alexandre-ohayon/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=alexandre-ohayon&theme=onedark)](https://github.com/alexandre-ohayon/github-profile-trophy) -->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-ohayon&langs_count=8)](https://github.com/alexandre-ohayon/github-readme-stats)
 
