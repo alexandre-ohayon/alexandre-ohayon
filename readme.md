@@ -2,11 +2,6 @@
 
 <!-- ... -->
 
-### About me :point_down:
-* 3rd Year at Epitech Paris (Promo 2023)
-* Open Source enthusiast :computer:
-* Learning React ⚛️
-
 ### Currently working at WebTailor Agency :briefcase:
 * **full-time internship** :briefcase:
 * Starting on **05/04/2021** ending **31/08/2021** :calendar:
@@ -30,7 +25,7 @@
 
 <br />
 
-Cool project :sunglasses:
+Cool projects
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandre-ohayon&repo=covid19&theme=dark)](https://github.com/alexandre-ohayon/covid19) |
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandre-ohayon&repo=Amazon&theme=dark)](https://github.com/alexandre-ohayon/Amazon) |
