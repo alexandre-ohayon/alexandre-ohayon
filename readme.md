@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=alexandre-ohayon)
+
 
 <!-- ... -->
 
@@ -20,12 +20,6 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
+![](https://komarev.com/ghpvc/?username=alexandre-ohayon)
 
 ---
-
-<br />
-
-Cool projects
----
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandre-ohayon&repo=covid19&theme=dark)](https://github.com/alexandre-ohayon/covid19)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandre-ohayon&repo=Amazon&theme=dark)](https://github.com/alexandre-ohayon/Amazon)
