@@ -27,5 +27,5 @@
 
 Cool projects
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandre-ohayon&repo=covid19&theme=dark)](https://github.com/alexandre-ohayon/covid19) |
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandre-ohayon&repo=Amazon&theme=dark)](https://github.com/alexandre-ohayon/Amazon) |
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandre-ohayon&repo=covid19&theme=dark)](https://github.com/alexandre-ohayon/covid19)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandre-ohayon&repo=Amazon&theme=dark)](https://github.com/alexandre-ohayon/Amazon)
