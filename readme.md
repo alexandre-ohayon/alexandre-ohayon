@@ -3,7 +3,7 @@
 <!-- ... -->
 
 ### Currently working at WebTailor Agency :briefcase:
-* **Full-Time Internship as Full-Stack Developer** 👨‍💼:
+* **Full-Time Internship as Full-Stack Developer** 👨‍💼
 * From **05/04/2021** To **31/08/2021** :calendar:
 * Based in Paris :office:
 * [Contact me](mailto:alexandre.ohayon@epitech.eu) :point_left:
