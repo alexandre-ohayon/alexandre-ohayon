@@ -6,7 +6,7 @@
 * **Full-Time Internship as Full-Stack Developer**
 * From **05/04/2021** To **31/08/2021**
 * Based in Paris
-* [Contact](mailto:alexandre.ohayon@epitech.eu)
+* [Contact](https://www.linkedin.com/in/alexandreohayon/)
 
 ### Languages :
 
