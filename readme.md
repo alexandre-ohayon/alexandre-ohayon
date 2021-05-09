@@ -8,9 +8,4 @@
 * Based in Paris
 * [Contact](https://www.linkedin.com/in/alexandreohayon/)
 
-<br />
-
-
-![](https://komarev.com/ghpvc/?username=alexandre-ohayon)
-
 ---
