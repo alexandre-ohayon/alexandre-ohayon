@@ -10,7 +10,6 @@
 
 <br />
 
-<br/>
 
 ![](https://komarev.com/ghpvc/?username=alexandre-ohayon)
 
